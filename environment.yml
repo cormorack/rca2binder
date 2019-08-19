@@ -1,0 +1,4 @@
+name: rca2binder-environment
+
+dependencies:
+  - python=3.7
