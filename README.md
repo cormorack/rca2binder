@@ -1,9 +1,8 @@
 [![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/robfatland/synoptic/master)
 
 
-# RCA = Regional Cabled Array --> to --> binder
-## Ocean data science tutorials in Python+Jupyter notebook format
-### Introduction
+# Regional Cabled Array to binder
+## An introduction to ocean data science in Jupyter notebook format
 
 To use these notebooks: Simply click on one to start it; then use the **run** button to run the code and see what happens.
 
