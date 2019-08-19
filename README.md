@@ -1,4 +1,4 @@
-[![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/robfatland/synoptic/master)
+[![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/cormorack/rca2binder/master)
 
 
 # Regional Cabled Array to binder
