@@ -7,7 +7,7 @@ Mybinder test...
 Pangeo test...
 <BR>
   
-[![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/cormorack/rca2binder/master?tree)
+[![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/cormorack/rca2binder/master?urlpath=tree)
 
 # Regional Cabled Array to binder
 ## An introduction to ocean data science in Jupyter notebook format
