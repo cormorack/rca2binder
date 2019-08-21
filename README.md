@@ -1,5 +1,13 @@
+Mybinder test...
+<BR>
+
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/cormorack/rca2binder/master)
 
+<BR>
+Pangeo test...
+<BR>
+  
+[![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/cormorack/rca2binder/master?tree)
 
 # Regional Cabled Array to binder
 ## An introduction to ocean data science in Jupyter notebook format
